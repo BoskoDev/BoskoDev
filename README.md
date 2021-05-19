@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BoskoDev
+- 👀 I’m interested in informatics, coding, it-security and databases...
+- 🌱 I’m currently learning java, algorithms, how to build small project applications
+- 💞️ I’m looking to collaborate on building a password manager 
+- 📫 How to reach me : [GitHub],[eMAIL] or soon on my [webpage]
